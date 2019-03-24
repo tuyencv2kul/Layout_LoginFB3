@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layout_LoginFB</string>
+    <string name="sign_fb">Signing Up For Facebook</string>
+    <string name="hide_editextUser">Type User Name</string>
+    <string name="hide_editextPass">Type Password</string>
+</resources>
